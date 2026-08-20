@@ -1,0 +1,8 @@
+{
+  "name": "CivicSense AI",
+  "description": "An Agentic AI Platform for Live Opportunity Discovery, Eligibility Analysis, and Personalized Public Information across jobs, internships, hackathons, scholarships, and government schemes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
